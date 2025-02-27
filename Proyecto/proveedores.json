@@ -1,0 +1,49 @@
+{
+    "proveedores":[
+    {
+        "nombre": "Juan Reyes",
+        "contacto": "juanreyes@proveedor.com",
+        "direccion": "Calle 15 #456"
+    },
+    {
+        "nombre": "Carlos Torres",
+        "contacto": "carlostorres@proveedor.com",
+        "direccion": "Calle 10 #789"
+    },
+    {
+        "nombre": "Angela Pinto",
+        "contacto": "angelapinto@proveedora.com",
+        "direccion": "Calle 143"
+    },
+    {
+        "nombre": "Karen Rodriguez",
+        "contacto": "karenrod@proveedora.com",
+        "direccion": "Calle 15 #56-27"
+    },
+    {
+        "nombre": "Laura Gomez",
+        "contacto": "laugomez@proveedora.com",
+        "direccion": "Calle 27 #30-21"
+    },
+    {
+        "nombre": "Jose Vesga",
+        "contacto": "josevesga@proveedor.com",
+        "direccion": "Cra 41 #20-10"
+    },
+    {
+        "nombre": "Paula Rueda",
+        "contacto": "paularueda@proveedora.com",
+        "direccion": "Cra 66 #45-08"
+    },
+    {
+        "nombre": "Nicolle Duarte",
+        "contacto": "nicolleduarte@proveedora.com",
+        "direccion": "Cra 20 #95a-12"
+    },
+    {
+        "nombre": "Daniel Vega",
+        "contacto": "danielvega@proveedor.com",
+        "direccion": "Calle 19 #10-21"
+    }
+]
+}

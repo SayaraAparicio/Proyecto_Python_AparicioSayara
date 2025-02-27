@@ -1,0 +1,54 @@
+{
+    "pacientes": [
+        {
+            "nombre": "Juan Perez",
+            "direccion": "Calle 123",
+            "telefono": "3208976453"
+        },
+        {
+            "nombre": "Maria Gomez",
+            "direccion": "Calle 456",
+            "telefono": "3012345678"
+        },
+        {
+            "nombre": "Luis Rodriguez",
+            "direccion": "Calle 789",
+            "telefono": "3023456789"
+        },
+        {
+            "nombre": "Elena Fernandez",
+            "direccion": "Calle 101",
+            "telefono": "3034567890"
+        },
+        {
+            "nombre": "Sofia Ramirez",
+            "direccion": "Calle 112",
+            "telefono": "3045678901"
+        },
+        {
+            "nombre": "Carlos Martinez",
+            "direccion": "Calle 220",
+            "telefono": "3089012345"
+        },
+        {
+            "nombre": "Ana Torres",
+            "direccion": "Calle 330",
+            "telefono": "3090123456"
+        },
+        {
+            "nombre": "Pedro Lopez",
+            "direccion": "Calle 440",
+            "telefono": "3067890123"
+        },
+        {
+            "nombre": "Lucia Herrera",
+            "direccion": "Calle 550",
+            "telefono": "3056789012"
+        },
+        {
+            "nombre": "Miguel Castro",
+            "direccion": "Calle 660",
+            "telefono": "3175556677"
+        }
+    ]
+}
